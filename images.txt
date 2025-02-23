@@ -7,3 +7,4 @@ xhofe/alist:latest
 youshandefeiyang/allinone:latest
 mzz2017/v2raya:latest
 ghcr.io/bestruirui/subs-check:latest
+containrrr/watchtower
