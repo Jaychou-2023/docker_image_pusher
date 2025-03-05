@@ -6,5 +6,4 @@ xhofe/alist:latest
 --platform=linux/amd64 xiaoyaliu/alist
 youshandefeiyang/allinone:latest
 mzz2017/v2raya:latest
-ghcr.io/bestruirui/subs-check:latest
 containrrr/watchtower
