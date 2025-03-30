@@ -7,6 +7,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist:latest
 youshandefeiyang/allinone:latest
-mzz2017/v2raya-gui:latest
+mzz2017/v2raya:latest
 containrrr/watchtower
 makedie/fnos
