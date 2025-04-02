@@ -9,4 +9,4 @@ youshandefeiyang/allinone:latest
 mzz2017/v2raya:latest
 containrrr/watchtower
 redis:latest
-portainer/portainer
+portainer/portainer-ce
