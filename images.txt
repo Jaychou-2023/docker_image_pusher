@@ -7,6 +7,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xiaoyaliu/alist:latest
 youshandefeiyang/allinone:latest
 mzz2017/v2raya:latest
+beck8/subs-check
 containrrr/watchtower
 redis:latest
 portainer/portainer-ce
